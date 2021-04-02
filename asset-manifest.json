@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/static/js/main.ec8eb654.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/static/js/main.ec8eb654.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/static/js/runtime-main.cbcf3a04.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/static/js/runtime-main.cbcf3a04.js.map",
+    "static/js/2.f3d1e0e8.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/static/js/2.f3d1e0e8.chunk.js",
+    "static/js/2.f3d1e0e8.chunk.js.map": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/static/js/2.f3d1e0e8.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/index.html",
+    "precache-manifest.2b178cc578e3aaa2bf544b2dcc536613.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/precache-manifest.2b178cc578e3aaa2bf544b2dcc536613.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/service-worker.js",
+    "static/js/2.f3d1e0e8.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/static/js/2.f3d1e0e8.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "https://cdn.jsdelivr.net/gh/dsky1990/info@main/static/media/logo.8e72f6f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbcf3a04.js",
+    "static/js/2.f3d1e0e8.chunk.js",
+    "static/js/main.ec8eb654.chunk.js"
+  ]
+}
