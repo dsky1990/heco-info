@@ -1,0 +1,29 @@
+{
+  "files": {
+    "static/js/0.6120d7e5.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/0.6120d7e5.chunk.js",
+    "static/js/1.536b3da7.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/1.536b3da7.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/main.735d9b39.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/runtime-main.104d46d1.js",
+    "static/css/4.9d768956.chunk.css": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/css/4.9d768956.chunk.css",
+    "static/js/4.a00e4d69.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/4.a00e4d69.chunk.js",
+    "static/js/5.4b820ea5.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/5.4b820ea5.chunk.js",
+    "static/js/6.1cf4f382.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/6.1cf4f382.chunk.js",
+    "static/js/7.1eb94782.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/7.1eb94782.chunk.js",
+    "static/js/8.1c8fdbed.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/8.1c8fdbed.chunk.js",
+    "static/js/9.1ca76984.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/9.1ca76984.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainindex.html",
+    "static/js/0.6120d7e5.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/0.6120d7e5.chunk.js.LICENSE.txt",
+    "static/js/4.a00e4d69.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/4.a00e4d69.chunk.js.LICENSE.txt",
+    "static/js/5.4b820ea5.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/5.4b820ea5.chunk.js.LICENSE.txt",
+    "static/js/7.1eb94782.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/js/7.1eb94782.chunk.js.LICENSE.txt",
+    "static/media/inter.css": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/media/Inter.var.a738a131.woff2",
+    "static/media/arbitrum.abae01ba.svg": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/media/arbitrum.abae01ba.svg",
+    "static/media/optimism.6510cce8.svg": "https://cdn.jsdelivr.net/gh/dsky1990/info@mainstatic/media/optimism.6510cce8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.104d46d1.js",
+    "static/css/4.9d768956.chunk.css",
+    "static/js/4.a00e4d69.chunk.js",
+    "static/js/main.735d9b39.chunk.js"
+  ]
+}
